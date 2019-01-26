@@ -1,0 +1,27 @@
+{
+  "name": "exportbase64",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {
+    "@types/node": "^10.12.18",
+    "ts-node": "^8.0.1",
+    "typescript": "^3.2.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yangxiao",
+  "license": "ISC",
+  "description": "image to base64",
+  "homepage": "https://github.com/xinfangke/exportbase64",
+  "keywords": [
+    "image2base64",
+    "png2base64",
+    "jpg2base64",
+    "webp2base64"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
